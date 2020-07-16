@@ -1,0 +1,19 @@
+{
+  "name": "browser-low-version-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautifulBoys/browser-low-version-plugin.git"
+  },
+  "author": "1298947916@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beautifulBoys/browser-low-version-plugin/issues"
+  },
+  "homepage": "https://github.com/beautifulBoys/browser-low-version-plugin#readme"
+}
